@@ -76,6 +76,12 @@ export const ModalContent = styled.div`
     display: flex;
     justify-content: space-between;
     margin-bottom: 24px;
+
+    img {
+      cursor: pointer;
+      width: 16px;
+      height: 16px;
+    }
   }
 
   h4 {
